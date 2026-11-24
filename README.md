@@ -1,4 +1,4 @@
-# 🛵 Food Delivery Operations & Exploratory Data Analysis (EDA)
+# 🛵 Food Delivery Operations & Exploratory Data Analysis (EDA) Week 2
 
 ## 📌 Project Overview
 This repository presents an end-to-end **Exploratory Data Analysis (EDA)** of food delivery operations across **45,584 delivery records**[span_0](start_span)[span_0](end_span). Using **MySQL 8.0** for statistical querying and geospatial distance calculation alongside **Power BI** for visual correlation analysis, this project investigates the primary operational drivers behind delivery duration (`Time_taken_min`)[span_1](start_span)[span_1](end_span)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
